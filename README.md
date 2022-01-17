@@ -4,12 +4,12 @@ Simple server-side application that accesses user related data through the Spoti
 ## Installation:
 Clone the project via SSH:
 ```bash
-git clone git@github.com:pepeamaya/rd-project-api.git
+git clone git@github.com:josedejesusAmaya/rd-project-api.git
 ```
 
 Or HTTPS:
 ```bash
-git clone https://github.com/pepeamaya/rd-project-api.git
+git clone https://github.com/josedejesusAmaya/rd-project-api.git
 ```
 
 ```bash
